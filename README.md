@@ -3,7 +3,7 @@ Avionics and flight software development for CU Boulder Sounding Rocket Lab (SRL
 ## Project Overview
 This repository documents flight-critical avionics systems developed for high-performance sounding rockets. The primary focus is on attitude determination, autonomous state management, and recovery deployment sequencing for vehicles operating at extreme altitudes and velocities.
 **Mamba III** served as a validation platform, achieving 90,000 feet and Mach 3.4 on a P-class motor. Flight data from this mission directly informed system improvements and validated our simulation models.
-**Spaceshot** is the next evolution, targeting the Kármán line with a significantly larger 8-inch motor and enhanced avionics architecture.
+**Spaceshot** is the next evolution, targeting the Kármán line with a significantly larger motor and enhanced avionics architecture.
 
 ## System Architecture
 ### Core Subsystems
