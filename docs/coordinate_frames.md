@@ -11,7 +11,7 @@ The avionics system operates in multiple reference frames simultaneously:
 This module transforms between these frames in real-time, accounting for Earth's rotation and ellipsoidal shape of Earth.
 
 ## Reference Frames
-** LLA (Latitude/Longitude/Altitude)**
+**LLA (Latitude/Longitude/Altitude)**
 - GPS coordinates
 - Geodetic system using WGS84 ellipsoid
 - Input from external GNSS receiver
